@@ -2,7 +2,12 @@
   "name": "svg-dedupe",
   "version": "1.0.0",
   "description": "Tool to find similar SVG files",
+  "homepage": "https://github.com/shubhaemk/svg-dedupe",
   "license": "MIT",
+  "author": {
+    "name": "Shubham Kamath",
+    "email": "dev.shubhaem@gmail.com"
+  },
   "main": "index.js",
   "bin": {
     "svg-dedupe": "./index.js"
