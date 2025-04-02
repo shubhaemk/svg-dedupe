@@ -1,6 +1,6 @@
 {
   "name": "svg-dedupe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool to find similar SVG files",
   "homepage": "https://github.com/shubhaemk/svg-dedupe",
   "license": "MIT",
