@@ -2,6 +2,7 @@
   "name": "svg-dedupe",
   "version": "1.0.0",
   "description": "Tool to find similar SVG files",
+  "license": "MIT",
   "main": "index.js",
   "bin": {
     "svg-dedupe": "./index.js"
